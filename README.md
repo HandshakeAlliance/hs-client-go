@@ -2,7 +2,7 @@ The [Handshake Alliance](https://handshakealliance.org) API client for [hsd](htt
 
 ## Documentation
 
-> [https://godoc.org/github.com/kilpatty/nomics-go/nomics](https://godoc.org/github.com/kilpatty/nomics-go/nomics)
+[https://godoc.org/github.com/HandshakeAlliance/hs-client-go/pkg](https://godoc.org/github.com/HandshakeAlliance/hs-client-go/pkg)
 
 ## Install
 
