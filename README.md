@@ -1,4 +1,4 @@
-The [Handshake Alliance](https://handshakealliance.org) API client for [hsd](github.com/handshake-org/hsd).
+The [Handshake Alliance](https://handshakealliance.org) API client for [hsd](https://github.com/handshake-org/hsd).
 
 ## Documentation
 
